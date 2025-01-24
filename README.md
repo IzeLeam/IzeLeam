@@ -4,7 +4,7 @@
 <!--Introduction -->
 I'm IzeLeam! I'm a **cybersecurity engineer student**:computer:, looking to solve **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day:pray:.
 <br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
+<img src="[https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGhoZjA4Y3Z4dzR4bTMxMTVqbGw5ODU2cHFsd2c4eW10MW8yc240bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/axnFGXT6MzvgY/giphy.gif)" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
 <!-- Your badges -->
 [![Google Playstore](https://img.shields.io/badge/-Joy_Apps_Developers_Team-gray?style=flat&logo=Google-Play&logoColor=white)](https://play.google.com/store/apps/developer?id=Joy+Apps+Developers+Team&hl=en_IN)
