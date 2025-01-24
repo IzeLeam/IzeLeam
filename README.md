@@ -1,17 +1,14 @@
-<!-- Greeting -->
-# Hey there! :wave:
+# Good morning there!
 
-<!--Introduction -->
-I'm IzeLeam! I'm a **cybersecurity engineer student**:computer:, looking to solve **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day:pray:.
+I'm IzeLeam, **cybersecurity engineer student**, don't need to express that much, i know a lot of things, i do a lot of things. Always in a project from any idea passing through my mind. Learning fast, understanding fast, hire me if you want to me to build your dreams. Enjoy the visit!
 <br>
 
-<!-- Profile View Count and GitStats -->
+Check my portfolio by the way
 [![PortFolio](https://img.shields.io/badge/-LucaPourceau-black?style=flat)](https://lucaprc.fr)
 
-<!-- Sample Dev class image -->
 <img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png" alt="dev_object" align="right" width="500" />
 
-### 💼  Things that I'm currently working on: 
+### Things that I'm currently working on: 
 * Learning Front-End Web:computer: Development
 * Learning some vectors drawing:art: by using Adobe Illustrator.
 * Looking forward to take a Flutter:calling: course in future.
