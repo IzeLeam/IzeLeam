@@ -1,12 +1,12 @@
 <!-- Greeting -->
-# Hey there! :wave::smiley:
+# Hey there! :wave:
 
 <!--Introduction -->
 I'm IzeLeam! I'm a **cybersecurity engineer student**:computer:, looking to solve **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day:pray:.
 <br>
 
 <!-- Profile View Count and GitStats -->
-[![Github](https://img.shields.io/badge/-LucaPourceau-blue?style=flat&logo=Linkedin&logoColor=white)](https://lucaprc.fr)
+[![PortFolio](https://img.shields.io/badge/LucaPourceau?style=flat&logo=Linkedin&logoColor=white)](https://lucaprc.fr)
 
 <!-- Sample Dev class image -->
 <img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png" alt="dev_object" align="right" width="500" />
