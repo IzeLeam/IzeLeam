@@ -6,7 +6,7 @@ I'm IzeLeam! I'm a **cybersecurity engineer student**:computer:, looking to solv
 <br>
 
 <!-- Profile View Count and GitStats -->
-[![PortFolio](https://img.shields.io/badge/LucaPourceau?style=flat&logo=Linkedin&logoColor=white)](https://lucaprc.fr)
+[![PortFolio](https://img.shields.io/badge/-LucaPourceau-?style=flat&logo=Linkedin&logoColor=white)](https://lucaprc.fr)
 
 <!-- Sample Dev class image -->
 <img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png" alt="dev_object" align="right" width="500" />
